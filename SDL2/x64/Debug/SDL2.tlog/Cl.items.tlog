@@ -1,0 +1,14 @@
+C:\GameSDL\SDL2\SDL2\BaseObject.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\BaseObject.obj
+C:\GameSDL\SDL2\SDL2\BossObject.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\BossObject.obj
+C:\GameSDL\SDL2\SDL2\BulletObject.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\BulletObject.obj
+C:\GameSDL\SDL2\SDL2\CommonFunc.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\CommonFunc.obj
+C:\GameSDL\SDL2\SDL2\ExplosionObject.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\ExplosionObject.obj
+C:\GameSDL\SDL2\SDL2\game_map.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\game_map.obj
+C:\GameSDL\SDL2\SDL2\Geometric.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\Geometric.obj
+C:\GameSDL\SDL2\SDL2\ImpTimer.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\ImpTimer.obj
+C:\GameSDL\SDL2\SDL2\main.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\main.obj
+C:\GameSDL\SDL2\SDL2\MainObject.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\MainObject.obj
+C:\GameSDL\SDL2\SDL2\PlayerPower.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\PlayerPower.obj
+C:\GameSDL\SDL2\SDL2\TextObject.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\TextObject.obj
+C:\GameSDL\SDL2\SDL2\FlyObject.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\FlyObject.obj
+C:\GameSDL\SDL2\SDL2\ThreatsObject.cpp;C:\GameSDL\SDL2\SDL2\x64\Debug\ThreatsObject.obj

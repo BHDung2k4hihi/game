@@ -1,0 +1,45 @@
+﻿  main.cpp
+C:\GameSDL\SDL2\SDL2\CommonFunc.h(48,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\GameSDL\SDL2\SDL2\CommonFunc.h(63,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\GameSDL\SDL2\SDL2\MainObject.h(42,34): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\GameSDL\SDL2\SDL2\MainObject.h(59,31): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\GameSDL\SDL2\SDL2\BossObject.h(11,1): warning C4005: 'PLAYER_SPEED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\GameSDL\SDL2\SDL2\MainObject.h(14,1):
+  see previous definition of 'PLAYER_SPEED'
+  
+C:\GameSDL\SDL2\SDL2\BossObject.h(21,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\GameSDL\SDL2\SDL2\BossObject.h(22,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\GameSDL\SDL2\SDL2\Geometric.h(16,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\GameSDL\SDL2\SDL2\Geometric.h(25,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\GameSDL\SDL2\SDL2\main.cpp(135,33): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\GameSDL\SDL2\SDL2\main.cpp(159,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\GameSDL\SDL2\SDL2\main.cpp(162,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GameSDL\SDL2\SDL2\main.cpp(163,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\GameSDL\SDL2\SDL2\main.cpp(180,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\GameSDL\SDL2\SDL2\main.cpp(242,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\GameSDL\SDL2\SDL2\main.cpp(249,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GameSDL\SDL2\SDL2\main.cpp(430,60): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\GameSDL\SDL2\SDL2\main.cpp(462,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GameSDL\SDL2\SDL2\main.cpp(463,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GameSDL\SDL2\SDL2\main.cpp(525,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GameSDL\SDL2\SDL2\main.cpp(526,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GameSDL\SDL2\SDL2\main.cpp(572,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\GameSDL\SDL2\SDL2\main.cpp(580,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SDL2.vcxproj -> C:\GameSDL\SDL2\x64\Debug\SDL2.exe
